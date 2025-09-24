@@ -1,1 +1,1 @@
-This is project for car renatal and lot of python bootcamp learning codes
+This is project for car rental and lot of python bootcamp learning codes
